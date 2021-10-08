@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CheckBoxExample</string>
+    <string name="tvTittle">Selciona tus intereses</string>
+    <string name="cb_Belleza">Belleza</string>
+    <string name="cb_LibrosYLiteratura">Libros Y Literatura</string>
+    <string name="cb_Carreras">Carreras</string>
+    <string name="cb_Educacion">Educacion</string>
+    <string name="cb_Eventos">Eventos</string>
+    <string name="cb_Familia">Familia</string>
+    <string name="cb_ComidaYBebida">Comida Y Bebida</string>
+    <string name="cb_Videojuegos">Videojuegos</string>
+    <string name="cb_Deportes">Deportes</string>
+    <string name="cb_Arte">Arte</string>
+    <string name="BtnLoad">Cargar datos</string>
+</resources>
